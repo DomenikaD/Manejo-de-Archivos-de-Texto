@@ -11,11 +11,11 @@ package ec.edu.ups.modelo;
  */
 public class Palabras {
     
+    
     //Atributos
     private String word;
     private int cantidad;
-    
-    
+       
 
     //Getters & Setters 
     public String getWord() {
