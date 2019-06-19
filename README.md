@@ -99,20 +99,23 @@ Commits
 ![image](https://user-images.githubusercontent.com/49033904/59584567-fb32f300-90a3-11e9-96b5-fb5c5d1681ac.png)
 
 
-5.	NLP
-
-
-6.	BOW
-
-
-
 RESULTADO(S) OBTENIDO(S):
 
 Palabras encontradas dentro de los cinco archivos de texto con su ocurrencia: 
 
     	resultado.txt
     
-    
+![image](https://user-images.githubusercontent.com/49033904/59797655-e0c86780-92a5-11e9-91bb-e004efa4752a.png)
+
+![image](https://user-images.githubusercontent.com/49033904/59797666-e9b93900-92a5-11e9-850a-108549fa72e4.png)
+
+![image](https://user-images.githubusercontent.com/49033904/59797672-ee7ded00-92a5-11e9-855e-cc2740eb1b8e.png)
+
+![image](https://user-images.githubusercontent.com/49033904/59797683-f2aa0a80-92a5-11e9-9842-33f0a73203f3.png)
+
+![image](https://user-images.githubusercontent.com/49033904/59797693-f63d9180-92a5-11e9-9242-282202f3e3c9.png)
+
+![image](https://user-images.githubusercontent.com/49033904/59797702-fb9adc00-92a5-11e9-8b31-7545bd96cd84.png)
 
 
 CONCLUSIONES: 
