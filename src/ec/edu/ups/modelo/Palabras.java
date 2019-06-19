@@ -33,13 +33,12 @@ public class Palabras {
     public void setCantidad(int cantidad) {
         this.cantidad = cantidad;
     }
+
     
     
-    //toString
-    @Override
-    public String toString() {
-        return "Palabras{" + "word=" + word + ", cantidad=" + cantidad + '}';
-    }
+    
+    
+   
     
     
 }
